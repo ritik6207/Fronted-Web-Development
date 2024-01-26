@@ -25,3 +25,9 @@ let car3 = new Car("tata", "i595", "2017");
 for (let prop in car1){
     document.write(prop + " : " + car1[prop] + "<br>");
 }
+
+document.write("<br>");
+
+for (let prop in car1){
+    document.write(prop + " : " + car1[prop] + "<br>");
+}
