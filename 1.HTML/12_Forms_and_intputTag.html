@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Form and input tag</title>
+    </head>
+    <body>
+        <h2>Dummy form</h2>
+        <form action="backend.php">
+            <label for="name"></label>
+            <div>
+                First Name: <input type="text" name="MyName" id="name"> <br> <br> Last Name: <input type="text" name="MyName" id="name">
+            </div>
+            <br>
+            <div>
+                <label for="roll">Roll No: </label>
+                <input type="number" name="MyRoll" id="roll">
+            </div>
+            <br>
+           <div>
+            <label for="email">Email: </label>
+            <input type="email" name="Myemail" id="email">
+           </div>
+            <br>
+            <div>
+                <label for="attendance">Attendance: </label>
+                <input type="number" name="Myattendance" id="attandance">
+            </div>
+            <br>
+            <div>
+                <label for="yesorno">Are you eligiable?</label>
+                <input type="checkbox" name="Mycheckbos" id="yesorno">
+            </div>
+            <br>
+            <div>
+                Date: <input type="date" name="Mydate">
+            </div>
+            <br>
+            <div>
+                <label for="pass">Pass:</label>
+                <select name="Mypass" id="pass">
+                    <option value="yes">YES</option>
+                    <option value="no">NO</option>
+                </select>
+            </div>
+            <br>
+            <div>
+                Gender: Male <input type="radio" name="MyGender"> Female <input type="radio" name="MyGender"> Others <input type="radio" name="MyGender">
+            </div>
+            <br>
+            <div>
+                Write about yourself? <br> <textarea name="Mytext" id="" cols="30" rows="10"></textarea>
+            </div>
+            <br>
+            <div>
+                <input type="submit" value="Submit Now">
+                <input type="reset" value="Reset Now">
+            </div>
+            <br>
+            <div>
+               
+            </div>
+        </form>
+    </body>
+</html>

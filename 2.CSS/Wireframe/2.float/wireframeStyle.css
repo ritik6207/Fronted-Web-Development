@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+
+.row{
+    border: 1px solid red;
+}
+
+.row::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.col{
+    border: 2px solid black;
+    float: left;
+    height: 150px;
+    width: 33.33%;
+}
+
+.col2{
+    border: 2px solid black;
+    float: left;
+    height: 150px;
+    width: 50%;
+}
+
+.row2{
+    border: 2px solid blue;
+    height: 50%;
+}
+

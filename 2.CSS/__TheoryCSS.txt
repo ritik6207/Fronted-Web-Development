@@ -1,0 +1,29 @@
+What is CSS : -
+* CSS gives style to raw HTML
+* CSS stands for Cascading style Sheets
+* CSS is used to give style to our web pages
+* CSS is used to make websites responsive
+* HTML is used to stucture a website 
+* CSS takes responsibility of design
+
+
+CSS : - 
+=> Cascading style Sheets which is known as CSS is a style Sheets language that used to handle the presentation of the web page containing HTML
+
+=> It makes our websites beautiful adn modern looking 
+
+
+CSS Syntax: - 
+
+Selector   Property   Value
+    |         |         |
+    |         |         |
+    V         V         V
+    p     { color :  bule; }
+
+
+THREE WAYS TO ADD CSS TO THE MARKUP(that means HTML):-
+
+* Inline CSS: CSS is added to the elements using style attribute
+* Internal CSS: CSS is kept inside the head tags in <style> tags
+* External CSS: CSS is kept separately inside a.CSS style Sheet

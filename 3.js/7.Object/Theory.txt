@@ -1,0 +1,3 @@
+Access the object using two properties 
+1. Dot(.) property
+2. Squire([]) property

@@ -1,0 +1,32 @@
+There are two type of varibale in javascript 
+1. var (oldest one)
+2. let (introduce in 2015)
+
+the variable is lose coupled that's means no need to initilize data type
+for ex:- let varibale
+        variable Name
+           ^
+           |
+           |
+           |
+      let abc = "Hello world";
+      let ps = 5;
+      let ty = 9.3;
+      let ft = 'y'
+
+also we can use let or not dose't matter
+variable name cann't be use twice
+
+
+for var varibale , no need to write var to initilize the variable
+for ex: var
+abc = "Hello world";
+ps = 5;
+ty = 9.3;
+ft = 'y'
+variable name can be use twice
+
+
+Q. How to incure wchich variable are use?
+ans:- use "use strict" at the top of script file.
+if we use "use strict" spript file , var keyword is invalid, in this condition to initilize the varibale name thats mean let

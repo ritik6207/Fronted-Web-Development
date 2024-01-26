@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+}
+.row{
+    border: 1px solid red;
+    height: 150px;
+    font-size: 0px;
+}
+
+.col{
+    border: 2px solid black;
+    display: inline-block;
+    height: 100%;
+    width: 33.33%;
+}
+
+.col2{
+    border: 2px solid black;
+    display: inline-block;
+    height: 100%;
+    width: 50%;
+}
+.row2{
+    border: 2px solid blue;
+    height: 50%;
+}
+
+.col3{
+    border: 2px solid black;
+    display: inline-block;
+    height: 100%;
+    width: 25%;
+}
+
+.row3{
+    border: 2px solid blue;
+    height: 50%;
+}
+
+.row4{
+    border: 2px solid blue;
+    height: 33.33%;
+}
+
+.col4{
+    border: 2px solid black;
+    display: inline-block;
+    height: 100%;
+    width: 50%;
+}

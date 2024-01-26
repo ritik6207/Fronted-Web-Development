@@ -1,0 +1,16 @@
+div{
+    border: 1px solid red;
+    height: 150px;
+}
+
+h1{
+    position: relative;
+    z-index: 3;
+}
+
+p{
+    background-color: skyblue;
+    position: relative;
+    top: -25px;
+    z-index: 2;
+}
