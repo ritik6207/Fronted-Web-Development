@@ -1,0 +1,19 @@
+Array define is in two method
+
+1. let ArrayName =["java", "cow"];
+2. let ArrayName = new Array[];
+
+
+=> Array Methods
+//insert the element in last index use push method
+1. ArrayName.push(yourData);
+//Delete the element in last index use pop method
+2. ArrayName.pop();
+3. foreach() // it is not a type of loop but it is act like a loop , it is function or method 
+4. map()
+5. filter()
+
+
+=>Rest Parameter 
+In Rest Parameter array is define (...) three dot than ArrayName
+for ex:- (...ArrayName)
