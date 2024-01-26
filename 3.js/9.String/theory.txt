@@ -1,0 +1,5 @@
+We can use "String as Object"
+-> let s = new String("Hello World!");
+
+=> lenght property of String
+s.lenght
