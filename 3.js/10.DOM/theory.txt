@@ -1,0 +1,7 @@
+DOM => 'document' Object : Medel
+-> it is a programming interface, access the html content 
+Dom = document Object:method
+
+=> There are some method of DOM 
+1. getElementById
+2. 

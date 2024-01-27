@@ -1,0 +1,2 @@
+Initiating an HTTP Request using AJAX.
+AJAX:- Asynchronous JavaScript and XML.
